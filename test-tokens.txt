@@ -28,7 +28,7 @@ generate example strings for regular expression
 27 CFPATIUUKfEePkky07FiW9jBkFUdsm4pJRNqDyNDmvKOWMVOjn7qBI "Contentful Personal Access Token"
 28 pk_6sSSKPCT2EpSNJLwOs5nY7LcEroyfbToCVLYvGzXQBhrpWJH3Sitj7FQSiL85oIDegCafCOaEO5Rjkz1CHMaypndPuYo6GYpUKNm_PrvlgMP3GKu3Icq9Q2hln3imVKgw Courier Key
 29 9sfx7crp43086kgj3eg2jsswrcanhyfyxw9u90x36ufad5q1a68fwdsvvdm20qfdnc5gn4smu40tty1bhlzgrisxg8n84pq4ni1s.as.deputy.com Deputy URL
-30 web_2ulcncebke6rzoaa4vptiaddxqee70zz Dfuse Key
+30 web_2ulcncebke6rzoaa4vptiaddxqee70zz Dfuse key
 31
 32
 33
