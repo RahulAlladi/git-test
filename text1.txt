@@ -41,7 +41,7 @@ rahulalladifeb10@gmail.com
 1111 1111 1111 1111
 162162 ccavenue Merchant Id
 8DE506CAA31A4DEA1CF6F13C2224BD68 ccavenue Encryption Key
-AVH175FA48AU57IHUF ccavenue Access Code
+AV0123456789ABCDEF ccavenue Access Code inside text 1
 
 rzp_live_yVn9uA6BJt2JA5 Razorpay Key id 
 ppYH06mOojm8d3xrj0p0s9do Razorpay Key secret 
